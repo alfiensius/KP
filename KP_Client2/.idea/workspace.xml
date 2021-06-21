@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd85155-915e-4155-8b70-ae322d5530c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1rkqG9dHEYALR1GSgqjOFqboZci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KP_Client1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\KP_Client2\view" />
+      <recent name="C:\xampp\htdocs\KP_Client\uploads" />
+      <recent name="C:\xampp\htdocs\KP_Server\view" />
+      <recent name="C:\xampp\htdocs\KP" />
+      <recent name="C:\xampp\htdocs\Groovin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd85155-915e-4155-8b70-ae322d5530c8" name="Default Changelist" comment="" />
+      <created>1619530529149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619530529149</updated>
+      <workItem from="1619530530469" duration="3756000" />
+      <workItem from="1619769726547" duration="12477000" />
+      <workItem from="1619846157611" duration="10766000" />
+      <workItem from="1620043504790" duration="687000" />
+      <workItem from="1620067774370" duration="5841000" />
+      <workItem from="1620213262845" duration="4828000" />
+      <workItem from="1620351261598" duration="26518000" />
+      <workItem from="1620814834352" duration="20713000" />
+      <workItem from="1620869743407" duration="10448000" />
+      <workItem from="1620987370669" duration="15994000" />
+      <workItem from="1621202162925" duration="9478000" />
+      <workItem from="1621242762646" duration="1005000" />
+      <workItem from="1621246059777" duration="7750000" />
+      <workItem from="1621419314522" duration="1969000" />
+      <workItem from="1621421961784" duration="2770000" />
+      <workItem from="1621432504012" duration="740000" />
+      <workItem from="1621475549858" duration="4541000" />
+      <workItem from="1621481590073" duration="110000" />
+      <workItem from="1621481761149" duration="569000" />
+      <workItem from="1621482990313" duration="650000" />
+      <workItem from="1621495358262" duration="3666000" />
+      <workItem from="1621504792850" duration="4578000" />
+      <workItem from="1621572338960" duration="702000" />
+      <workItem from="1621576574915" duration="2480000" />
+      <workItem from="1621597159859" duration="532000" />
+      <workItem from="1622008698140" duration="8880000" />
+      <workItem from="1622445408362" duration="12196000" />
+      <workItem from="1622556138044" duration="601000" />
+      <workItem from="1622633924920" duration="4148000" />
+      <workItem from="1622693780418" duration="9756000" />
+      <workItem from="1622714666308" duration="1508000" />
+      <workItem from="1622812593657" duration="1691000" />
+      <workItem from="1623055657391" duration="5313000" />
+      <workItem from="1623404930903" duration="3000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622445599957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1622445599957" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1622813081532">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1622813081532" />
+    <state x="160" y="110" key="NewPhpClassDialog" timestamp="1622448160283">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="160" y="110" key="NewPhpClassDialog/0.0.1366.768@0.0.1366.768" timestamp="1622448160283" />
+    <state x="176" y="310" key="NewPhpFileDialog" timestamp="1622448535909">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="176" y="310" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1622448535909" />
+  </component>
+</project>
